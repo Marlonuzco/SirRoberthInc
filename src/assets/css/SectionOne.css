@@ -1,0 +1,11 @@
+#ContenidoOne{
+    padding: 120px;
+    text-align: center;
+    background-color: #ededeb;
+    width: 100%;
+    height: 100%;
+}
+
+#ContenidoOne > p {
+    padding-top: 30px;
+}

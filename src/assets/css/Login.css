@@ -1,0 +1,14 @@
+.login-container{
+  background-image: url('/home/marlonjoseuzca/Documentos/Mis Proyectos/sirrobertinc/src/assets/img/BannerPage.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0 ,0 ,0.8);
+}
+
+.cards-container{
+  padding-top: 200px;
+}
